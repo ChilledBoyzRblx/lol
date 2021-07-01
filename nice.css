@@ -1,0 +1,49 @@
+.imagng{
+    height:250px;
+    width:300px;
+    border-radius:25px;
+}
+body{
+    text-align:center;
+    
+}
+#welcome{
+    background-color:burlywood;
+}
+#galleryduh{
+    background-color:burlywood;
+}
+#sliders{
+    background-color:burlywood;
+}
+#falmingosus{
+    width:400px;
+    border-radius: 25px;
+}
+#welcometitle{
+    font-family:cursive;
+}
+#secondarytitle{
+    font-family:cursive;
+}
+#aboutwebsite{
+    font-size:20px;
+    font-family:fantasy;
+}
+#funnylol{
+    font-size:20px;
+    font-family:fantasy;
+}
+#gdtitle{
+    font-family: cursive;
+}
+#slidertitle{
+    font-family: cursive;
+}
+#salute{
+    border-radius: 25px;
+}
+#belowtxt{
+    font-size:20px;
+    font-family: fantasy;
+}
